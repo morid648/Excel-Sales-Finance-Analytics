@@ -56,7 +56,6 @@ The objective was to uncover actionable insights, evaluate business performance 
 - Data cleaning & transformation via **Power Query**  
 - Relationship modeling with **Power Pivot**  
 - Custom **Date Tables** for fiscal analysis  
-- KPI creation with **DAX** formulas  
 - Interactive dashboards using **Pivot Tables**, slicers & charts  
 
 ### Soft Skills
