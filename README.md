@@ -74,17 +74,6 @@ These analytics enable AtliQ Hardwares to:
 - Support **data-driven planning** for growth & pricing.  
 - Guide **expansion into profitable regions** with high GM%.  
 
----
-
-## 🌱 Future Enhancements
-1. **Dashboard Previews** – Add Excel screenshots in a `/visuals` folder.  
-2. **Forecast Section** – Use Excel’s `FORECAST.LINEAR()` to predict next-quarter sales.  
-3. **Insights Summary Chart** – Create a visual KPI summary board.  
-4. **Walkthrough Video** – Record a short 2-min demo explaining key insights.  
-5. **Organized Repo Structure** – Keep reports and visuals in `/reports` and `/visuals` folders.
-
----
-
 ## 👨‍💻 Author
 **Anshul Chaudhary**  
 📧 morid648@gmail.com  
