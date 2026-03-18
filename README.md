@@ -26,7 +26,7 @@ This project addresses these challenges by building structured analytical report
 ![Sales Report](Images/New_Product_Performance_Report.png)
 
 ### Finance Report
-![Finance Report](Images/Profit_and_Loss_by_Market_Market.png)
+![Finance Report](Images/Profit_and_Loss_by_Market_Report.png)
 
 ---
 
