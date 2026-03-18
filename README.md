@@ -1,81 +1,117 @@
-# Excel-Sales-Finance-Analytics
-Comprehensive Excel-based analysis of AtliQ Hardwares’ sales and financial performance. Includes P&amp;L insights, division-wise growth, and margin trends across markets.
+# 📊 Atliq Hardwares – Excel Sales & Finance Analytics
 
-# 📊 AtliQ Hardwares – Excel-Based Sales & Finance Analytics
+## 🚀 Project Overview
 
-## 🧠 Project Overview
-This project presents a complete **Excel-based business analytics solution** for *AtliQ Hardwares*.  
-It focuses on both **Sales** and **Finance** performance using structured datasets, advanced Excel modeling, and clear visual reporting.
+This project presents an end-to-end **Excel-based analytics solution** for Atliq Hardwares, focusing on both **Sales and Financial performance**.
 
-The objective was to uncover actionable insights, evaluate business performance across regions and products, and support better decisions through **data-driven storytelling**.
+Using **Power Query, Power Pivot, and Excel modeling**, the project transforms raw data into structured insights to support **data-driven business decision-making**.
 
 ---
 
-## 📈 Key Insights Summary
+## 🧠 Business Objective
 
-| Area | Insight | Business Impact |
-|------|----------|----------------|
-| Sales | **PC Division** grew by **+314% YoY**, reaching **$165.8M** in 2021 | Massive growth in computing products |
-| Sales | **P & A Division** contributed **$338.4M**, the largest revenue share | Core revenue driver |
-| Products | **New launches** added **$176.2M** in 2021, led by *AQ Qwerty* & *AQ Trigger* | Successful innovation & adoption |
-| Products | **AQ Mx NB** achieved **5623% growth**, *AQ Smash 2* +2489% | Flagship potential identified |
-| Markets | **India** led 2021 revenue with **$161.3M** (≈45% of total) | High dependency on one major market |
-| Finance | **ROA & SE zones** maintained **highest margins (~44%)** | Strong operational efficiency |
-| Finance | **India’s GM% fell** from 42% → 32% (FY2019–FY2021) | Indicates margin compression |
-| Profitability | **New Zealand (48.2%)**, **Japan (46.5%)**, **UK (45.1%)** achieved top margins | Replicable high-margin strategies |
+Atliq Hardwares required better visibility into:
+
+• Sales performance across products, customers, and regions  
+• Growth trends across divisions  
+• Profitability and margin performance  
+
+This project addresses these challenges by building structured analytical reports.
+
+---
+
+## 📊 Project Visuals
+
+
+
+---
+
+## 📈 Key Insights
+
+• **PC Division** grew by **314% YoY**, reaching **$165.8M in 2021**  
+• **P & A Division** contributed **$338.4M**, the largest revenue share  
+• **New products** generated **$176.2M** in 2021, led by Qwerty & Trigger series  
+• **India** contributed **$161.3M (~45%)**, indicating market dependency  
+• **Gross margins declined in India** (42% → 32%), signaling pricing pressure  
+• **New Zealand, Japan, UK** achieved highest profitability (>45% GM)
 
 ---
 
 ## 📊 Sales Analytics
 
-📄 [View Sales Report (PDF)](sales_merged.pdf)
+📂 Folder: `/Sales Reports`
 
-**Highlights**
-- **Division-wise Performance:** PC Division grew 314% YoY; P&A dominated overall revenue.  
-- **Top Countries by Sales:** India ($161.3M), USA ($87.8M), South Korea ($49.0M).  
-- **New Product Launches:** Added $176.2M in 2021; *Qwerty* and *Trigger* series led performance.  
-- **Top vs Bottom Products:** *Master* series peripherals dominated; *Home Allin1* and *Smash 2* underperformed.
+Key analyses include:
+
+• Customer & Market Performance  
+• Division-wise Sales Growth  
+• Market Performance vs Target  
+• Top & Bottom Product Analysis  
+• New Product Performance  
 
 ---
 
 ## 💰 Finance Analytics
 
-📄 [View Finance Report (PDF)](finance_merged.pdf)
+📂 Folder: `/Finance Reports`
 
-**Highlights**
-- **P&L by Fiscal Year (2019–2021):** India’s margins fell from 42% → 32%, while ROA & SE remained stable.  
-- **Market-Level Profitability:** NZ (48.2%), Japan (46.5%), and UK (45.1%) achieved top GM%.  
-- **Regional Trends:** ROA and SE maintained ~38–39% GM% by FY2021, showing operational resilience.
+Key analyses include:
+
+• Gross Margin by Sub-Zone  
+• Profit & Loss by Market  
+• Regional profitability trends  
 
 ---
 
-## 🛠️ Tools & Techniques
+## 🛠 Tools & Techniques
 
 ### Technical Skills
-- ETL process (Extract → Transform → Load) in Excel  
-- Data cleaning & transformation via **Power Query**  
-- Relationship modeling with **Power Pivot**  
-- Custom **Date Tables** for fiscal analysis  
-- Interactive dashboards using **Pivot Tables**, slicers & charts  
+• Microsoft Excel  
+• Power Query (ETL & Data Cleaning)  
+• Power Pivot (Data Modeling)  
+• DAX (Calculated Measures)  
+• Pivot Tables & Multi-sheet Analysis  
 
-### Soft Skills
-- Business understanding of **Sales & Finance KPIs**  
-- Analytical thinking and structured problem-solving  
-- Report optimization & performance tuning  
-- Empathy-driven dashboard design for readability  
+### Analytical Skills
+• Sales & Finance KPI Analysis  
+• Trend & variance analysis  
+• Business storytelling  
+• Insight generation for decision-making  
 
 ---
 
-## 💼 Business Value
-These analytics enable AtliQ Hardwares to:
-- Identify **top-performing divisions & products** driving revenue.  
-- Detect **low-margin markets** and reduce inefficiencies.  
-- Support **data-driven planning** for growth & pricing.  
-- Guide **expansion into profitable regions** with high GM%.  
+## 💡 Business Impact
+
+This analysis helps:
+
+• Identify high-performing products and divisions  
+• Detect low-margin markets and inefficiencies  
+• Improve pricing and discount strategies  
+• Support expansion into high-profit regions  
+
+---
+
+## 📂 Project Structure
+
+• Sales Reports → `/Sales Reports`  
+• Finance Reports → `/Finance Reports`  
+• Analysis Files → `/Analysis Files`  
+• Visuals → `/Images`  
+
+---
 
 ## 👨‍💻 Author
-**Anshul Chaudhary**  
-📧 morid648@gmail.com  
-🎯 Aspiring Finance & Data Analyst  
-💡 Skilled in Excel, Power Query, Power Pivot & DAX  
 
+**Anshul Chaudhary**  
+Aspiring Data Analyst (Finance + Analytics)  
+
+---
+
+## 🎯 Project Outcome
+
+This project demonstrates the ability to:
+
+• Build analytical solutions using Excel  
+• Perform data modeling using Power Pivot  
+• Translate business problems into insights  
+• Communicate findings effectively  
