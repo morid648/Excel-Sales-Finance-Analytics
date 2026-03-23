@@ -7,16 +7,26 @@ This project presents an end-to-end **Excel-based analytics solution** for Atliq
 Using **Power Query, Power Pivot, and Excel modeling**, the project transforms raw data into structured insights to support **data-driven business decision-making**.
 
 ---
+## 🎯 Business Problem
 
-## 🧠 Business Objective
+The company was dealing with large volumes of scattered Excel files used for sales and financial tracking. While the data could not be removed due to business requirements, the lack of structure made it difficult to:
 
-Atliq Hardwares required better visibility into:
+* Extract meaningful insights
+* Track performance efficiently
+* Support data-driven decision-making
 
-• Sales performance across products, customers, and regions  
-• Growth trends across divisions  
-• Profitability and margin performance  
+As a result, management relied on manual analysis, leading to inefficiencies and delayed decisions.
 
-This project addresses these challenges by building structured analytical reports.
+With growing interest in analytics from leadership (Bruce), there was a need to transform raw Excel data into structured, insight-driven reports.
+
+---
+
+## 🧠 Objective
+
+* Organize and transform scattered Excel data into structured reports
+* Build Sales and Finance analytics dashboards
+* Identify key performance trends and problem areas
+* Enable faster and more informed business decisions
 
 ---
 
